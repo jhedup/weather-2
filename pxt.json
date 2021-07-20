@@ -3,9 +3,9 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*",
         "microphone": "*",
-        "weatherbit": "github:sparkfun/pxt-weather-bit#v0.0.19"
+        "weatherbit": "github:sparkfun/pxt-weather-bit#v0.0.19",
+        "blue tooth serial": "github:jhedup/blue-tooth-serial#master"
     },
     "files": [
         "main.blocks",
